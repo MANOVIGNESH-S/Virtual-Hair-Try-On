@@ -1,0 +1,14 @@
+# Ignore Python site packages
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+.env
+
+# Ignore other unwanted files
+*.log
+*.sqlite3
+.DS_Store
